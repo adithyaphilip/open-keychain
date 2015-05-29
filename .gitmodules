@@ -22,3 +22,6 @@
 	path = extern/safeslinger-exchange
 	url = https://github.com/open-keychain/exchange-android
 	ignore = dirty
+[submodule "extern/netcipher"]
+	path = extern/netcipher
+	url = https://github.com/guardianproject/NetCipher
